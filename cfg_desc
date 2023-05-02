@@ -1,0 +1,8 @@
+mqtt:
+1883, 9001
+piuser, qwerty
+
+db:
+root, dbuser
+qwerty
+prod_db
